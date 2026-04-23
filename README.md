@@ -1,2 +1,4 @@
 # reflex-ball-game
-An Android-based reflex game developed using Kotlin, where players must tap a moving ball after it crosses a danger line. The game features dynamic speed increase, real-time interaction, and score tracking.
+Smart Ball Game is an Android application built using Kotlin that focuses on testing user reflexes and timing. In this game, a ball moves randomly across the screen, and the player must tap it only after it crosses a predefined danger line. The gameplay becomes more challenging as the speed of the ball increases with each successful attempt.
+
+The project demonstrates key concepts of mobile game development such as real-time rendering using Canvas, touch event handling, collision detection, and dynamic difficulty adjustment. It provides a simple yet engaging user experience while showcasing practical implementation of Android development techniques.
